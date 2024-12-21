@@ -31,7 +31,14 @@ Explore the world of colors with this interactive and user-friendly RGB Color Ge
 [Add the link if hosted online]  
 
 **📸 Preview:**  
-(Include a screenshot or GIF showcasing the app in action.)
+![Screenshot 2024-12-21 123521](https://github.com/user-attachments/assets/09b2e360-72c8-4b96-845c-7cb3d0e25290)
+
+Alert message fro copying color:
+![Screenshot 2024-12-21 123536](https://github.com/user-attachments/assets/9c21f72c-1257-49c1-aae9-694e917dede6)
+
+Working:
+![Screenshot 2024-12-21 123603](https://github.com/user-attachments/assets/26d6dfaa-e52d-4400-ac92-50551bc82be0)
+
 
 **🌟 Feedback and Contributions:**  
 Found a bug? Have suggestions? Feel free to create an issue or contribute with a pull request!  
