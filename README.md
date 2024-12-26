@@ -1,5 +1,5 @@
-# RGB-Color-Application
-### GitHub Post Content: RGB Color Generator Application  
+
+### RGB Color Generator Application  
 
 **🌈 RGB Color Generator Application**  
 Explore the world of colors with this interactive and user-friendly RGB Color Generator application!  
